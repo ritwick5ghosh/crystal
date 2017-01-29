@@ -1,0 +1,14 @@
+name: test
+version: 0.1.0
+
+dependencies:
+  pg:
+    github: will/crystal-pg
+    version: 0.6.0
+
+  frost:
+     github: ysbaddaden/frost
+     
+development_dependencies:
+  minitest:
+    github: ysbaddaden/minitest.cr

@@ -1,0 +1,12 @@
+name: firstweb
+version: 0.1.0
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
+
+authors:
+  - Ritwick Ghosh <rghosh@walmart.com>
+
+license: MIT

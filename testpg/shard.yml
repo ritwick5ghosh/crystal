@@ -1,0 +1,11 @@
+name: testpg
+version: 0.1.0
+
+dependencies:
+  pg:
+    github: will/crystal-pg
+    
+authors:
+  - Ritwick Ghosh <rghosh@walmart.com>
+
+license: MIT

@@ -1,0 +1,13 @@
+# artefacts
+.crystal
+/test
+
+# dependencies
+.shards
+/libs
+
+# logs
+/log/*.log
+
+# secrets
+/config/database.yml
